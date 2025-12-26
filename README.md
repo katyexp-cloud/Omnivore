@@ -63,6 +63,7 @@ Custom .json and .txt editor designed for OOP and GameDev:
 TO-DO:
 * X button?
 * universal json and text load
+* animations/sounds/picture visualisation
 
 Known issues
 * can't resize, only min/max
