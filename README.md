@@ -26,6 +26,7 @@ Custom .json and .txt editor designed for OOP and GameDev:
      * Replace Everything: do the operation for the whole .json
   
 * GUI/UI/UX:
+   * customize/load and rename jsons/txts   
    * post-anarchy punk theme
    * no windows panel (control via hotkeys)
    * everything visible (no drop-downs, no menu)
