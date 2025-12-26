@@ -8,7 +8,6 @@ Custom .json and .txt editor designed for OOP and GameDev:
 
 ---
 ## What it can do
-* overwrite save without asking bcs you are speed; ctrl+s, F5 or via Save button hit
 * .json
      all your jsons in one place
      automatic bookmarking; shows only selected bookmark content
@@ -27,10 +26,11 @@ Custom .json and .txt editor designed for OOP and GameDev:
         Replace Everything: do the operation for the whole .json
         ... i don't have function for replacing words in all .jsons that'd be messy ...
   
-* GUI:
+* GUI/UI/UX:
     post-anarchy punk theme
     no windows panel (control via hotkeys)
     everything visible (no drop-downs, no menu)
+    overwrite save without asking bcs you are speed
     bookmarks of loaded files
 
 ---
