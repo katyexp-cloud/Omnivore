@@ -31,6 +31,7 @@ Custom .json and .txt editor designed for OOP and GameDev:
    * everything visible (no drop-downs, no menu)
    * overwrite save without asking bcs you are speed
    * bookmarks of loaded files
+   * predefined resize via F6-8
 
 ---
 
@@ -50,6 +51,7 @@ Custom .json and .txt editor designed for OOP and GameDev:
 * F4: quit
 * F5/ ctrl+s: save
 * ctrl+z/Z - undo/redo
+* F6,7,8 - resize
 
 ---
 
@@ -65,4 +67,4 @@ TO-DO:
 * animations/sounds/picture visualisation
 
 Known issues
-* can't resize, only min/max
+* ---
