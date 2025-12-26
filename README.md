@@ -65,5 +65,4 @@ TO-DO:
 * universal json and text load
 
 Known issues
-* ---
-
+* can't resize, only min/max
