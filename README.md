@@ -9,29 +9,28 @@ Custom .json and .txt editor designed for OOP and GameDev:
 ---
 ## What it can do
 * .json
-     all your jsons in one place
-     automatic bookmarking; shows only selected bookmark content
-     syntax coloring
+   * all your jsons in one place
+   * automatic bookmarking; shows only selected bookmark content
+   * syntax coloring
   
 * .txt
-     designed for nicely colored notes
-     bookmarking via ## and # + navigation on click
+   * designed for nicely colored notes
+   * bookmarking via ## and # + navigation on click
 
 * BOTH  
    * undo/redo
    * expand/collapse bookmarks
    * use REPLACE function via Find & Replace
-        simple Replace: replace every word (Find) with yours (Replace) in opened window
-        Replace Selected: do the operation for all selected bookmarks
-        Replace Everything: do the operation for the whole .json
-        ... i don't have function for replacing words in all .jsons that'd be messy ...
+     * simple Replace: replace every word (Find) with yours (Replace) in opened window
+     * Replace Selected: do the operation for all selected bookmarks
+     * Replace Everything: do the operation for the whole .json
   
 * GUI/UI/UX:
-    post-anarchy punk theme
-    no windows panel (control via hotkeys)
-    everything visible (no drop-downs, no menu)
-    overwrite save without asking bcs you are speed
-    bookmarks of loaded files
+   * post-anarchy punk theme
+   * no windows panel (control via hotkeys)
+   * everything visible (no drop-downs, no menu)
+   * overwrite save without asking bcs you are speed
+   * bookmarks of loaded files
 
 ---
 
