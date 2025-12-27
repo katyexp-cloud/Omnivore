@@ -25,7 +25,9 @@ Custom .json and .txt editor in Python tkinter designed for OOP and GameDev:
 
 * BOTH
    * unviersal .json/.txt load, delete, rename, indexing, remember
+   * bookmarks of loaded files
    * undo/redo
+   * overwrite save without asking
    * expand/collapse bookmarks
    * use REPLACE function via Find & Replace
      * simple Replace: replace every word (Find) with yours (Replace) in opened window
@@ -35,12 +37,9 @@ Custom .json and .txt editor in Python tkinter designed for OOP and GameDev:
   
   
 * GUI/UI/UX:
-   * customize/load and rename jsons/txts   
    * no windows panel (control via hotkeys)
    * line count
    * everything visible (no drop-downs, no menu)
-   * overwrite save without asking
-   * bookmarks of loaded files
    * dark post-punk theme / customize and save all colors
    * predefined resize via F6-8
 
