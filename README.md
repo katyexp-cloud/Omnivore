@@ -19,7 +19,7 @@ Custom .json and .txt editor designed for OOP and GameDev:
    * "" [] {} finishing
   
 * .txt
-   * designed for nicely colored notes
+   * designed for colored notes 
    * bookmarking via ## and # + navigation on click
 
 * BOTH
@@ -34,10 +34,10 @@ Custom .json and .txt editor designed for OOP and GameDev:
   
 * GUI/UI/UX:
    * customize/load and rename jsons/txts   
-   * post-anarchy punk theme
+   * post-punk theme
    * no windows panel (control via hotkeys)
    * everything visible (no drop-downs, no menu)
-   * overwrite save without asking bcs you are speed
+   * overwrite save without asking
    * bookmarks of loaded files
    * predefined resize via F6-8
 
@@ -48,7 +48,7 @@ Custom .json and .txt editor designed for OOP and GameDev:
   
 ### Run Code
 
-* yeah, just an .exe..
+* .exe
 
 ---
 
