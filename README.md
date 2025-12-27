@@ -1,12 +1,11 @@
-# Omnivore
+# <img width="64" height="64" alt="omnivore6" src="https://github.com/user-attachments/assets/907cc199-d4d9-4315-a0f4-fa1c855db673" />MNIVORE
+
 Custom .json and .txt editor in Python tkinter designed for OOP and GameDev:
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/cda7d837-4b15-42b9-9b4c-8a18b7617c06" width="600"><br>
   <img src="https://github.com/user-attachments/assets/d4214e22-e025-4b70-baf3-2b1f11c8c2b2" width="600">
   <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/d4dfb3b9-9001-4a57-b550-45cec64c663a" />
-
-
 </p>
 
 
