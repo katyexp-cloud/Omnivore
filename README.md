@@ -1,5 +1,5 @@
 # Omnivore
-Custom .json and .txt editor designed for OOP and GameDev:
+Custom .json and .txt editor in Python tkinter designed for OOP and GameDev:
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/cda7d837-4b15-42b9-9b4c-8a18b7617c06" width="600"><br>
@@ -30,15 +30,17 @@ Custom .json and .txt editor designed for OOP and GameDev:
      * simple Replace: replace every word (Find) with yours (Replace) in opened window
      * Replace Selected: do the operation for all selected bookmarks
      * Replace Everything: do the operation for the whole .json
+  * use FIND: finds and highlights every intance of the word
   
   
 * GUI/UI/UX:
    * customize/load and rename jsons/txts   
-   * dark post-punk theme / customize and save all colors
    * no windows panel (control via hotkeys)
+   * line count
    * everything visible (no drop-downs, no menu)
    * overwrite save without asking
    * bookmarks of loaded files
+   * dark post-punk theme / customize and save all colors
    * predefined resize via F6-8
 
 ---
@@ -71,6 +73,7 @@ Custom .json and .txt editor designed for OOP and GameDev:
 
 TO-DO:
 * animations/sounds/picture visualisation
+* advanced find
 
 Known issues
 * ---
