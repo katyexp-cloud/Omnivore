@@ -34,7 +34,7 @@ Custom .json and .txt editor designed for OOP and GameDev:
   
 * GUI/UI/UX:
    * customize/load and rename jsons/txts   
-   * post-punk theme / customize and save all colors
+   * dark post-punk theme / customize and save all colors
    * no windows panel (control via hotkeys)
    * everything visible (no drop-downs, no menu)
    * overwrite save without asking
