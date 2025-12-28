@@ -13,7 +13,9 @@ Custom .json and .txt editor in Python tkinter designed for OOP and GameDev:
 ## What it can do
 * .json
    * all your jsons in one place
+   * tree overview + whole .json file "classic" overview (3 levels in total)
    * automatic bookmarking; shows only selected bookmark content
+   * real-time replacing within the tree
    * syntax coloring
    * error highlighting
    * "" [] {} finishing
@@ -25,6 +27,7 @@ Custom .json and .txt editor in Python tkinter designed for OOP and GameDev:
 * BOTH
    * unviersal .json/.txt load, delete, rename, indexing, remember
    * bookmarks of loaded files
+   * autoselect / triple-click = select line
    * undo/redo
    * overwrite save without asking
    * expand/collapse bookmarks
@@ -36,7 +39,7 @@ Custom .json and .txt editor in Python tkinter designed for OOP and GameDev:
   
   
 * GUI/UI/UX:
-   * no windows panel (control via hotkeys)
+   * custom UI (no chrome panel)
    * line count
    * everything visible (no drop-downs, no menu)
    * dark post-punk theme / customize and save all colors
@@ -75,4 +78,4 @@ TO-DO:
 * advanced find
 
 Known issues
-* ---
+* can't minimize via icon click must use hotkey
