@@ -3,11 +3,15 @@
 Custom .json and .txt editor in Python tkinter designed for OOP and GameDev:
 
 <p align="center">
-  <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/e37209d8-e63c-4534-bcfb-d39aca660764" />
-<br>
+ <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/e399bec9-d0d3-4f7d-a36f-c9baabe3eb26" />
+
+  <br>
+ <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/8fc5d558-ed86-4335-b01f-17b9d2247118" />
+
+  <br>
  <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/c0dcdd28-2d8b-4b58-a16e-f571541c896b" />
 
-  <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/d4dfb3b9-9001-4a57-b550-45cec64c663a" />
+
 </p>
 
 
@@ -45,6 +49,7 @@ Custom .json and .txt editor in Python tkinter designed for OOP and GameDev:
    * line count
    * toggle superfast scrolling
    * everything visible (no drop-downs, no menu)
+   * hide tree/bookmarks
    * dark post-punk theme / customize and save all colors
    * custom "X" close button
    * predefined resize via F6-8
