@@ -44,6 +44,7 @@ Custom .json and .txt editor in Python tkinter designed for OOP and GameDev:
    * toggle superfast scrolling
    * everything visible (no drop-downs, no menu)
    * dark post-punk theme / customize and save all colors
+   * custom "X" close button
    * predefined resize via F6-8
 
 ---
