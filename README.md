@@ -41,6 +41,7 @@ Custom .json and .txt editor in Python tkinter designed for OOP and GameDev:
 * GUI/UI/UX:
    * custom UI (no chrome panel)
    * line count
+   * toggle superfast scrolling
    * everything visible (no drop-downs, no menu)
    * dark post-punk theme / customize and save all colors
    * predefined resize via F6-8
@@ -52,7 +53,7 @@ Custom .json and .txt editor in Python tkinter designed for OOP and GameDev:
   
 ### Run Code
 
-* .exe
+* ask for .exe / code
 
 ---
 
@@ -62,8 +63,10 @@ Custom .json and .txt editor in Python tkinter designed for OOP and GameDev:
 * F3: maximize
 * F4: quit
 * F5/ ctrl+s: save
-* ctrl+z/Z - undo/redo
 * F6,7,8 - resize
+* ctrl+z/Z - undo/redo
+* shift+scroll - fast scroll
+* right-click+drag - drag window
 
 ---
 
