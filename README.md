@@ -3,8 +3,10 @@
 Custom .json and .txt editor in Python tkinter designed for OOP and GameDev:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cda7d837-4b15-42b9-9b4c-8a18b7617c06" width="600"><br>
-  <img src="https://github.com/user-attachments/assets/d4214e22-e025-4b70-baf3-2b1f11c8c2b2" width="600">
+  <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/e37209d8-e63c-4534-bcfb-d39aca660764" />
+<br>
+ <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/c0dcdd28-2d8b-4b58-a16e-f571541c896b" />
+
   <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/d4dfb3b9-9001-4a57-b550-45cec64c663a" />
 </p>
 
