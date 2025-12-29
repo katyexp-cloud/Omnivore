@@ -35,7 +35,7 @@ Custom .json and .txt editor in Python tkinter designed for OOP and GameDev:
      * simple Replace: replace every word (Find) with yours (Replace) in opened window
      * Replace Selected: do the operation for all selected bookmarks
      * Replace Everything: do the operation for the whole .json
-  * use FIND: finds and highlights every intance of the word
+  * use FIND: finds and highlights every instance of the word
   
   
 * GUI/UI/UX:
